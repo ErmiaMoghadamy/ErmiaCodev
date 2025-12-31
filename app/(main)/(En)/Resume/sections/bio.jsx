@@ -10,7 +10,9 @@ export default function BioSection() {
                 <div className="grow">
                     <h1 className="py-4 text-xl lg:text-2xl font-bold">Ermia Moghadamy</h1>
                     <p className="lg:text-xl">
-                        I'm Ermia Moghadamy (Ermia Codev), Software Engineer, DevOps, DataScientist, Official TVET Instructor. <br />
+                        I'm Ermia Moghadamy (Ermia Codev), Software Engineer, DataScientist & SysAdmin. Official TVET Instructor. <br />
+                        I don't just code I build systems with architechture mindset. <br />
+                    
                         <strong className="text-rose-500 text-xs">
                             Learning never ends
                         </strong>
