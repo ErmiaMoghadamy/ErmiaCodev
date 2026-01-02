@@ -4,6 +4,11 @@ export default function SkillsSection() {
     return (
         <ResumeSection pk="skills" title="Skills">
             <div className="px-6 pb-6 grid grid-cols-2 lg:grid-cols-4 pt-4 gap-4 font-bold">
+                <div>System Designs</div>
+                <div>Design Patterns</div>
+                <div>Project Management</div>
+                <div>Team Work</div>
+                
                 <div>Python</div>
                 <div>Numpy, Pandas</div>
                 <div>SciKitLearn</div>

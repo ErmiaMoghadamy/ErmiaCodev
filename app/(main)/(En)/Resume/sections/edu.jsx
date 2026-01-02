@@ -2,7 +2,7 @@ import ResumeSection from "./ResumeSection";
 
 export default function EduSection() {
     return (
-        <ResumeSection pk="edu" title="Education">
+        <ResumeSection pk="education" title="Education">
             <div className="px-6 pb-6 flex flex-row gap-6 items-center">
                 <img className="w-20 h-20 rounded-full !aspect-square object-cover border-2" src="/assets/logos/sharif.png" alt="Ermia Moghadamy" />
                 <div className="grow">

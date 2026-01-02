@@ -5,8 +5,11 @@ export default function ExpSection() {
         <ResumeSection pk="expriences" title="Expereinces">
             <div className="px-4 pb-4 flex flex-col gap-6">
                 <div>
-                    <p className="text-xl lg:text-xl font-bold">TVET Instructor</p>
+                    <p className="text-xl lg:text-xl font-bold">Programming & Computer Science Instructor</p>
                     <p className="lg:text-lg">
+                        <strong className="text-sm text-cyan-600 dark:text-cyan-400">
+                            at Iran TVET <br />
+                        </strong>
                         Certified as official instructor of Iran TVTO(TVET).
                     </p>
                     <div className="flex gap-2 text-primary text-xs sm:text-sm">
@@ -19,8 +22,11 @@ export default function ExpSection() {
                 </div>
 
                 <div>
-                    <p className="text-xl lg:text-xl font-bold">Konkur Ac Webapp</p>
+                    <p className="text-xl lg:text-xl font-bold">Fullstack Engineer</p>
                     <p className="lg:text-lg">
+                        <strong className="text-sm text-cyan-600 dark:text-cyan-400">
+                            at Konkur Academy <br />
+                        </strong>
                         an automated LMS built for tracking students study & monitor their studying.
                     </p>
                     <div className="flex gap-2 text-primary text-xs sm:text-sm">
@@ -32,9 +38,12 @@ export default function ExpSection() {
                     </div>
                 </div>
                 <div>
-                    <p className="text-xl lg:text-xl font-bold">Nabla Ac Webapp</p>
+                    <p className="text-xl lg:text-xl font-bold">Fullstack Developer</p>
                     <p className="lg:text-lg">
-                        automated <strong>school</strong> & study tracking system based on schools. plus <strong>online exam</strong>
+                        <strong className="text-sm text-cyan-600 dark:text-cyan-400">
+                            at Nabla Academy <br />
+                        </strong>
+                        automated <strong>LMS</strong> & study tracking system based on schools. plus <strong>online exam</strong>
                     </p>
                     <div className="flex gap-2 text-primary text-xs sm:text-sm">
                         <strong>Laravel</strong>
@@ -43,8 +52,11 @@ export default function ExpSection() {
                     </div>
                 </div>
                 <div>
-                    <p className="text-xl lg:text-xl font-bold">Gravity Ac Webapp</p>
+                    <p className="text-xl lg:text-xl font-bold">Fullstack Developer</p>
                     <p className="lg:text-lg">
+                        <strong className="text-sm text-cyan-600 dark:text-cyan-400">
+                            at Gravity Academy <br />
+                        </strong>
                         Online tutorial courses platform
                     </p>
                     <div className="flex gap-2 text-primary text-xs sm:text-sm">

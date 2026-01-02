@@ -6,8 +6,6 @@ export const metadata = {
 
 export default async function BlogPage() {
     const data = [
-        { id: 0, title: "asd", caption: "asd", thumbnail: "/assets/Courses.png" },
-        { id: 0, title: "asd", caption: "asd", thumbnail: "/assets/Courses.png" },
     ]
 
     return (
